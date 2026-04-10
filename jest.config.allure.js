@@ -1,7 +1,7 @@
 module.exports = {
     testEnvironment: 'node',
     testMatch: ['**/__tests__/**/*.test.js'],
-    setupFilesAfterEnv: ['allure-jest'],
+    setupFilesAfterEnv: [require.resolve('allure-jest')],
     reporters: [
         'default',
         ['allure-jest', { resultsDir: './allure-results' }]
