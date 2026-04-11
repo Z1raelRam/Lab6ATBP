@@ -3,7 +3,7 @@ module.exports = {
     testMatch: ['**/__tests__/**/*.test.js'],
     reporters: [
         'default',
-        ['allure-jest', { resultsDir: './allure-results' }]
+        ['allure-jest/node', { resultsDir: './allure-results' }]
     ],
     transform: {
         '^.+\\.js$': 'babel-jest',
