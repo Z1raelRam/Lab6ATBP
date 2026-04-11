@@ -1,4 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1134","homepage has correct title","firefox","2026-04-11","passed","2026-04-11","","home.spec.js","",""
-"","45","Get hello message","","2026-04-11","passed","2026-04-11","","","",""
-"","231","homepage has correct title","chromium","2026-04-11","passed","2026-04-11","","home.spec.js","",""
+"","217","homepage has correct title","chromium","2026-04-11","passed","2026-04-11","","home.spec.js","",""
+"","1170","homepage has correct title","firefox","2026-04-11","passed","2026-04-11","","home.spec.js","",""
+"","48","Get hello message","","2026-04-11","passed","2026-04-11","","","",""
+"","3","Работа сложения","","2026-04-11","passed","2026-04-11","","Math Test","",""
